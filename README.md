@@ -60,37 +60,51 @@ then the game will begin.
   
 The images below show how to start the game, and the possible game outcomes:
 
+
 Entering 'node main.js':
+
 ![Starting the game in a node terminal][start_game]
 
 [start_game]: images/node_terminal_game_start.PNG
 
+
 Selecting a difficulty level:
+
 ![Selecting a difficulty level][difficulty_level]
 
 [difficulty_level]: images/node_terminal_game_difficulty_level.PNG
 
+
 The game field and direction prompt:
+
 ![The direction input prompt][direction_prompt]
 
 [direction_prompt]: images/node_terminal_game_direction_prompt.PNG
 
+
 An example of entering a direction:
+
 ![Choosing a direction][direction_input]
 
 [direction_input]: images/node_terminal_game_direction_input.PNG
 
+
 An example of leaving the game field bounds by choosing 'l' when already in the left-most slot:
+
 ![Out-of-bounds game state][out_of_bounds]
 
 [out_of_bounds]: images/node_terminal_game_out_of_bounds.PNG
 
+
 An example of moving right and falling into a 'hole':
+
 ![Fell-down-a-hole game state][fell_down_a_hole]
 
 [fell_down_a_hole]: images/node_terminal_game_fell_down_a_hole.PNG
 
+
 An example of moving right and finding the 'hat':
+
 ![Found-hat game state][found_hat]
 
 [found_hat]: images/node_terminal_game_found_hat.PNG
